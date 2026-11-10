@@ -1,0 +1,6 @@
+
+dataset/*.csv
+
+
+dataset/*.csv
+sql/olist_geolocation_dataset_part*.sql
